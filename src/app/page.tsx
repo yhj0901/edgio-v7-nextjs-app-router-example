@@ -68,6 +68,13 @@ const Home = () => {
           >
             Learn More &rarr;
           </a>
+          <a
+            className="mt-auto text-[#01B18D] hover:underline"
+            href="https://docs.edg.io/guides/v7/performance/prefetching#deep-fetching"
+            target="_blank"
+          >
+            Learn More &rarr;
+          </a>
         </div>
       </div>
     </div>
