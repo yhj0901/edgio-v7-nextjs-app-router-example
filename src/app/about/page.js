@@ -40,6 +40,13 @@ const About = () => {
           >
             edgio-docs/edgio-v7-nextjs-example
           </a>
+          <a
+            target="_blank"
+            className="border-b border-[#FFFFFF75] text-sm md:text-lg"
+            href="https://github.com/edgio-docs/edgio-v7-nextjs-example"
+          >
+            edgio-docs/edgio-v7-nextjs-example
+          </a>
         </div>
         {/* <a className="mt-5" target="_blank" href="https://app.edgio.co/deploy?repo=https://github.com/edgio-docs/edgio-nextjs-example">
           <img height="15px" src="https://docs.edg.io/button.svg" />
